@@ -1,3 +1,4 @@
+Connection con;
 Properties props = new Properties();
 rs.close();
 test.init();
