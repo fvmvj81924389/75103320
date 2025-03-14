@@ -1,3 +1,4 @@
+props.load(fs);
 String url = props.getProperty("db.url");
 Connection con;
 Properties props = new Properties();
