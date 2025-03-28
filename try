@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 con=DriverManager.getConnection(url, userName, password);
 // error processing code
 String driverClass = "oracle.jdbc.driver.OracleDriver";
