@@ -1,3 +1,4 @@
+if (out != null) {
 // error processing code
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 public class OracleJdbcTest
